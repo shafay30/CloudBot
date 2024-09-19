@@ -1,5 +1,4 @@
-# Shafay Chughtai
-#CloudBot
+# CloudBot
 
 CloudBot: 
 Created an intelligent chatbot utilizing Dialogflow, integrated with Google Cloud Platform (GCP) to harness advanced cloud-based features for enhanced performance and scalability. The project involves:
